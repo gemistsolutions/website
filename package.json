@@ -1,7 +1,7 @@
 {
   "name": "safety-website",
   "version": "0.1.0",
-  "homepage": "https://gemistsolutions.github.io",
+  "homepage": "https://gemistsolutions.github.io/website",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
