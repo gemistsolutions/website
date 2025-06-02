@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link to="/" className="navbar-brand">
-        <img src={logo} alt="Gemist Compliance Logo" />
+        <img src={logo} alt="Gemist Compliance Logo"/>
       </Link>
       <div className="navbar-links">
         <NavLink to="/" end style={({ isActive }) => ({ textDecoration: isActive ? 'underline' : 'none' })}>
